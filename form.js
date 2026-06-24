@@ -7,7 +7,7 @@
 //   3. Replace YOUR_WEB3FORMS_ACCESS_KEY below with the key you receive
 // ============================================================
 
-const WEB3FORMS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
+const WEB3FORMS_KEY = '7aa76f3b-0bfc-4cd5-874a-0f4de38a0055';
 
 document.addEventListener('DOMContentLoaded', () => {
   const form      = document.getElementById('sprint-form');
